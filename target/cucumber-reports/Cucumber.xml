@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="2" time="0">
+    <testcase classname="Login validation" name="Login to appliaction with invalid user" time="0">
+        <system-out>
+            <![CDATA[Given login to application with invalid user name...........................skipped
+]]>
+        </system-out>
+    </testcase>
+    <testcase classname="Login validation" name="Login with user name having numeric characters" time="0">
+        <system-out>
+            <![CDATA[Given Login with user id having numeric characters..........................skipped
+]]>
+        </system-out>
+    </testcase>
+</testsuite>
